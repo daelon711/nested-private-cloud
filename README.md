@@ -260,7 +260,7 @@ Laptop - 16GB RAM
 |
 |-- Proxmox Node 1  8GB RAM  <-- a hypervisor
 |   |
-|   |-- Talos-Control  1.5GB
+|   |-- Talos-Control  3GB
 |   |-- Talos-Worker-1 1.5GB
 |   |-- Talos-Worker-2 1.5GB
 |
@@ -268,5 +268,5 @@ Laptop - 16GB RAM
 
 =
 
-11 GB RAM
+12.5 GB RAM
 ```
